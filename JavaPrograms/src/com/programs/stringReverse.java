@@ -13,7 +13,7 @@ public class stringReverse {
 		}
 		String rev= "";
 		for(int i =0;i<input.length();i++) {
-			rev=input.charAt(i)+rev;
+			rev=input.charAt(i)+rev;// result
 			
 		}
 		System.out.println("reversed string is:"+rev);
