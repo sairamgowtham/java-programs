@@ -16,6 +16,7 @@ public class reverseUsingBuilder {
 		} else {
 			System.out.println("The word is not palindrome");
 		}
+         			System.out.println("The word is not palindrome");
 
 		
 	}
